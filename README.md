@@ -5,7 +5,9 @@
 
 - 🎓 I’m currently following **BSc (Hons) in Information Technology Specializing in Software Engineering**
 
-- 👩‍💻 I’m skilled in web application development
+- 👩‍💻 I’m skilled in web application development 
+<img src="https://media1.giphy.com/media/TEiaISogqJgrEuocni/giphy.gif"  width="220" height="220" align="right"/>
+
 
 - 📫 How to reach me **pramodapiyumali@gmail.com**
 
