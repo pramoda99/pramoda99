@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hi 🤗
 , I'm Pramoda</h1>
 <h3 align="center">An undergraduate at Sri Lanka Institute of Information Technology</h3>
 
