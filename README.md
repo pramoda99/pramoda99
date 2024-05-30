@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 🤗
 , I'm Pramoda</h1>
-<h3 align="center">An undergraduate at Sri Lanka Institute of Information Technology</h3>
+<h3 align="center">Graduated from Sri Lanka Institute of Information Technology</h3>
 
-- 🎓 I’m currently following **BSc (Hons) in Information Technology Specializing in Software Engineering**
+- 🎓 I followed **BSc (Hons) in Information Technology Specializing in Software Engineering**
 
-- 👩‍💻 I’m skilled in web application development 
+- 👩‍💻 I’m skilled in Automation & Manual Testing  
 <img src="https://media1.giphy.com/media/TEiaISogqJgrEuocni/giphy.gif"  width="220" height="220" align="right"/>
 
 
